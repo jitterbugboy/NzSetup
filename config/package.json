@@ -1,0 +1,26 @@
+{
+  "name": "NzSetup",
+  "version": "0.0.0",
+  "description": "a config file for grunt",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jitterbugboy/NzSetup.git"
+  },
+  "keywords": [
+    "grunt",
+    "nz",
+    "personalsetup"
+  ],
+  "author": "Jitterbugboy",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jitterbugboy/NzSetup/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "~0.2.7"
+  }
+}
